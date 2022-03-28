@@ -39,11 +39,11 @@
     "pg": "^8.7.3",
     "rimraf": "^3.0.2",
     "ts-node": "^8.6.2",
-    "typeorm": "^0.2.43",
+    "typeorm": "^0.3.4",
     "typescript": "^3.8.3"
   },
   "peerDependencies": {
-    "typeorm": "^0.2"
+    "typeorm": "^0.3"
   },
   "dependencies": {}
 }
